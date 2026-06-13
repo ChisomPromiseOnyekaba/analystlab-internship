@@ -36,6 +36,12 @@ during my internship at AnalystLab Africa.
 - Tasks: Business analytics case study, churn driver analysis, dashboard
 - Key Finding: 26.5% churn rate; month-to-month contracts churn at 42.7%
 
+### Week 6 — AAPL Stock Time-Series Analysis (Python)
+- Dataset: AAPL 5-Year Historical Data (Yahoo Finance via yfinance)
+- Tools: Python, pandas, matplotlib, seaborn, yfinance
+- Tasks: Time-series analysis, feature engineering, moving averages, volatility
+- Key Finding: AAPL returned 128.9% over 5 years; 2022 was the most volatile year
+
 ## Skills Demonstrated
 - Python (pandas, numpy, matplotlib, seaborn)
 - SQL (PostgreSQL)
