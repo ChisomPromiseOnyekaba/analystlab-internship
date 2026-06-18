@@ -42,6 +42,12 @@ during my internship at AnalystLab Africa.
 - Tasks: Time-series analysis, feature engineering, moving averages, volatility
 - Key Finding: AAPL returned 128.9% over 5 years; 2022 was the most volatile year
 
+### Week 7 — Weather ETL Pipeline (Python)
+- Dataset: Real-time weather data via OpenWeather API
+- Tools: Python, pandas, requests, sqlite3, matplotlib, seaborn
+- Tasks: ETL pipeline, API extraction, data transformation, SQLite storage
+- Key Finding: Lagos hottest (24.4°C) & most humid (94%); Tokyo only city with Rain
+
 ## Skills Demonstrated
 - Python (pandas, numpy, matplotlib, seaborn)
 - SQL (PostgreSQL)
